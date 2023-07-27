@@ -1,7 +1,7 @@
 # Excel-Data-Visualization
 Vrinda Sales Report Dashboard using MS Excel                                                                                                                              
 Objective:                                                                                                                                                                
-Vrinda Store wants to create an annual sales report for 2022. So that, Store can understand their customers and expected growth for the year 2023.                        
+Vrinda Store wants to create an annual sales report for 2022. So that, Store can understand their customers and expected growth for the year 2023.                     ![Vrinda Sales Report](https://github.com/Abhisheksabha/Excel-Data-Visualization/assets/129185540/b71a6880-df65-451f-871d-6a097b7f9e8b)   
 
 Problem Statement:                                                                                                                                                        
 -Compare sales and orders in single chart.                                                                                                                                
